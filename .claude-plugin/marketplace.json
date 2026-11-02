@@ -12,7 +12,8 @@
       "description": "Capture browser console errors and fix them with Claude Code",
       "source": {
         "source": "github",
-        "repo": "chucklhw/claude-agent-project"
+        "repo": "chucklhw/claude-agent-project",
+        "ref": "v1.0.0"
       }
     }
   ]
