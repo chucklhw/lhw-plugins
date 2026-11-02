@@ -3,6 +3,9 @@
   "owner": {
     "name": "chucklhw"
   },
+  "metadata": {
+    "description": "Personal Claude Code plugins by chucklhw"
+  },
   "plugins": [
     {
       "name": "browser-fix",
