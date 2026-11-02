@@ -1,0 +1,16 @@
+{
+  "name": "lhw-plugins",
+  "owner": {
+    "name": "chucklhw"
+  },
+  "plugins": [
+    {
+      "name": "browser-fix",
+      "description": "Capture browser console errors and fix them with Claude Code",
+      "source": {
+        "source": "github",
+        "repo": "chucklhw/claude-agent-project"
+      }
+    }
+  ]
+}
