@@ -15,6 +15,15 @@
         "repo": "chucklhw/claude-agent-project",
         "ref": "v1.0.0"
       }
+    },
+    {
+      "name": "lhw-skills",
+      "description": "Personal collection of Claude Code skills by chucklhw",
+      "source": {
+        "source": "github",
+        "repo": "chucklhw/lhw-skills",
+        "ref": "v0.1.0"
+      }
     }
   ]
 }
